@@ -76,7 +76,6 @@
   }
 }
 
-/* Mobile */
 @media (max-width: 640px) {
   .section {
     padding: 70px 24px;
@@ -94,3 +93,4 @@
     font-size: 28px;
   }
 }
+
