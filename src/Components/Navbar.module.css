@@ -61,14 +61,13 @@
   background-color: #0056b3;
 }
 
-/* Tablet */
+
 @media (max-width: 768px) {
   .links {
     display: none;
   }
 }
 
-/* Mobile */
 @media (max-width: 640px) {
   .navbar {
     padding: 15px 25px;
@@ -78,3 +77,4 @@
     height: 36px;
   }
 }
+
