@@ -1,0 +1,48 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px;
+  background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url("../assets/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: "Inter", sans-serif;
+}
+
+.cardArea {
+  max-width: 600px;
+}
+
+.mainAvatar {
+  width: 100%;
+  height: auto;
+  border-radius: 24px;
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.15);
+}
+
+.textArea {
+  max-width: 420px;
+}
+
+.textArea h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #1e293b;
+  line-height: 1.2;
+}
+
+.textArea h2 span {
+  color: #10b981;
+}
+
+.textArea ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 24px;
+}
+
+.textArea li {
+  font-size: 16px;
+  color: #475569;
+  margin-bottom: 14px;
+}
